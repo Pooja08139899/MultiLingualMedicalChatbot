@@ -1,0 +1,9 @@
+# requirements.txt
+streamlit==1.24.1
+torch
+transformers
+datasets
+peft
+sentencepiece
+argostranslate
+pandas
